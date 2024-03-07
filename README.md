@@ -1,3 +1,5 @@
+[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+All-MS+Windows+Activator;I+am+Developed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/Giftedmaurice/Windows-Activator)
+
 <p align="center">
  <a href="https://https://github.com/Giftedmaurice/Windows-Activator/"><img color="white" width="100px" src="logo.svg" /></a>
  <h1 align="center"><a id="repo-title" href="https://github.com/Giftedmaurice/Windows-Activator/">Windows Activator</a></h1>
@@ -28,3 +30,6 @@
     <figcaption><p align="center">▲ Activate Windows</p></figcaption>
 </figure>
 </p>
+
+### I Am
+- [Gifted Tech](https://github.com/Giftedmaurice) 
