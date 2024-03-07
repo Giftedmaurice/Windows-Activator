@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://https://github.com/Giftedmaurice/Windows-Activator/"><img color="white" width="100px" src="logo.svg" /></a>
- <h1 align="center"><a id="repo-title" href="https://github.com/Giftedmaurice/Windows-Activator/">Windows Activator</a></h1>
+ <h1 align="center"><a id="repo-title" href="https://github.com/Giftedmaurice/windows-activator">Windows Activator</a></h1>
  <p id="repo-subtitle" align="center">Activate all editions of Windows 8, 8.1, 10 and 11 free of cost</p>
  <p id="repo-desc" align="center">A simple easy to use tool to activate any edition of Microsoft Windows 8 to 11 without buying license key.</p>
 </p>
