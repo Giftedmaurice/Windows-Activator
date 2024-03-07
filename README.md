@@ -6,13 +6,13 @@
 </p>
 
 
-  <center><a href="https://github.com/Giftedmaurice/Windows-Activator/raw/main/Resultant%20App/Windows-Activator.exe"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" /></a><center/>
+  <center><a href="https://github.com/Giftedmaurice/Windows-Activator/releases/download/giftedtech/Windows-Activator.4.exe"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" /></a><center/>
 </p>
 
 <br />
 
 <h2 id="how-to-use" align="center">How to Use <span id="repo-name">Windows-Activator</span></h2>
-<p align="center">Download and run <a href="https://github.com/Giftedmaurice/Windows-Activator/raw/main/Resultant%20App/Windows-Activator.exe">Windows-Activator.exe</a> with Administrator priviledges.</p>
+<p align="center">Download and run <a href="https://github.com/Giftedmaurice/Windows-Activator/releases/download/giftedtech/Windows-Activator.4.exe">Windows-Activator.exe</a> with Administrator priviledges.</p>
 
 <p align="center">
 <figure>
